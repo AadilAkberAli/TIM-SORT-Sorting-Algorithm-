@@ -3,8 +3,11 @@ Description:-
 Tim sort is a hybrid sorting algorithm derived from insertion sort and merge sort.This was first implemented by Tim Peter in 2002 for Python programming language. It was designed to perform well on many kinds of real-world data.Timsort is one of the best sorting algorithms in terms of complexity and stability.
 
 Operation:-
+
 1)A stable sorting algorithm works in O(n Log n) time
+
 2)Used in Java’s Arrays.sort() as well as Python’s sorted() and sort().
+
 3)First sort small pieces using Insertion Sort, then merges the pieces using merge of merge sort.
 
 Runs:-
