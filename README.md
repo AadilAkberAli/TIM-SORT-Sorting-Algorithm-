@@ -17,5 +17,7 @@ Working:-
 Timsort sort those runs using insertion sort one by one and then merge those runs using combine function used in merge sort. If the size of Array is less than run, then Array get sorted just by using Insertion Sort. The size of run may vary from 32 to 64 depending upon the size of the array. Note that merge function performs well when sizes subarrays are powers of 2. The idea is based on the fact that insertion sort performs well for small arrays.
 
 Group Members:-
+
 Aadil Akber Ali(17B-056-SE)
+
 Danish Anjum(17B-037-SE)
